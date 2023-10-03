@@ -52,6 +52,7 @@ const HomeScreen1 = () => {
               <img src="https://www.boultaudio.com/cdn/shop/files/Trust_bar_3_230x.png?v=1693835168" alt="" />
               <img src="https://www.boultaudio.com/cdn/shop/files/MicrosoftTeams-image_23_7281b62c-c2be-4af2-ad9b-59f9297ef975_230x.png?v=1685439922" alt="" />
           </div>
+          
     </>
   );
 };
