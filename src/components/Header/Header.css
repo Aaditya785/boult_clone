@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    /* border: 1px solid; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 1.5rem;
+}
+
+.left img{
+    height: 15px;
+}
+
+.right{
+    font-size: 1.5rem;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    padding: 5px;
+    color: grey;
+}

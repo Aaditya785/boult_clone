@@ -1,0 +1,9 @@
+@font-face {
+    font-family: inter;
+    src: url('./assets/usual.ttf');
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: inter;
+}
